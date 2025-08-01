@@ -1,0 +1,14 @@
+C:\Users\asare\OneDrive\Desktop\318\TicketCalculator\bin\Debug\net9.0\TicketPriceCalculatorApp.exe
+C:\Users\asare\OneDrive\Desktop\318\TicketCalculator\bin\Debug\net9.0\TicketPriceCalculatorApp.deps.json
+C:\Users\asare\OneDrive\Desktop\318\TicketCalculator\bin\Debug\net9.0\TicketPriceCalculatorApp.runtimeconfig.json
+C:\Users\asare\OneDrive\Desktop\318\TicketCalculator\bin\Debug\net9.0\TicketPriceCalculatorApp.dll
+C:\Users\asare\OneDrive\Desktop\318\TicketCalculator\bin\Debug\net9.0\TicketPriceCalculatorApp.pdb
+C:\Users\asare\OneDrive\Desktop\318\TicketCalculator\obj\Debug\net9.0\TicketPriceCalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asare\OneDrive\Desktop\318\TicketCalculator\obj\Debug\net9.0\TicketPriceCalculatorApp.AssemblyInfoInputs.cache
+C:\Users\asare\OneDrive\Desktop\318\TicketCalculator\obj\Debug\net9.0\TicketPriceCalculatorApp.AssemblyInfo.cs
+C:\Users\asare\OneDrive\Desktop\318\TicketCalculator\obj\Debug\net9.0\TicketPriceCalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\asare\OneDrive\Desktop\318\TicketCalculator\obj\Debug\net9.0\TicketPriceCalculatorApp.dll
+C:\Users\asare\OneDrive\Desktop\318\TicketCalculator\obj\Debug\net9.0\refint\TicketPriceCalculatorApp.dll
+C:\Users\asare\OneDrive\Desktop\318\TicketCalculator\obj\Debug\net9.0\TicketPriceCalculatorApp.pdb
+C:\Users\asare\OneDrive\Desktop\318\TicketCalculator\obj\Debug\net9.0\TicketPriceCalculatorApp.genruntimeconfig.cache
+C:\Users\asare\OneDrive\Desktop\318\TicketCalculator\obj\Debug\net9.0\ref\TicketPriceCalculatorApp.dll
