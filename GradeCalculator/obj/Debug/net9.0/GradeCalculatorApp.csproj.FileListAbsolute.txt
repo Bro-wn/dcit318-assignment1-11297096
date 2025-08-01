@@ -1,0 +1,14 @@
+C:\Users\asare\OneDrive\Desktop\318\GradeCalculator\bin\Debug\net9.0\GradeCalculatorApp.exe
+C:\Users\asare\OneDrive\Desktop\318\GradeCalculator\bin\Debug\net9.0\GradeCalculatorApp.deps.json
+C:\Users\asare\OneDrive\Desktop\318\GradeCalculator\bin\Debug\net9.0\GradeCalculatorApp.runtimeconfig.json
+C:\Users\asare\OneDrive\Desktop\318\GradeCalculator\bin\Debug\net9.0\GradeCalculatorApp.dll
+C:\Users\asare\OneDrive\Desktop\318\GradeCalculator\bin\Debug\net9.0\GradeCalculatorApp.pdb
+C:\Users\asare\OneDrive\Desktop\318\GradeCalculator\obj\Debug\net9.0\GradeCalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asare\OneDrive\Desktop\318\GradeCalculator\obj\Debug\net9.0\GradeCalculatorApp.AssemblyInfoInputs.cache
+C:\Users\asare\OneDrive\Desktop\318\GradeCalculator\obj\Debug\net9.0\GradeCalculatorApp.AssemblyInfo.cs
+C:\Users\asare\OneDrive\Desktop\318\GradeCalculator\obj\Debug\net9.0\GradeCalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\asare\OneDrive\Desktop\318\GradeCalculator\obj\Debug\net9.0\GradeCalculatorApp.dll
+C:\Users\asare\OneDrive\Desktop\318\GradeCalculator\obj\Debug\net9.0\refint\GradeCalculatorApp.dll
+C:\Users\asare\OneDrive\Desktop\318\GradeCalculator\obj\Debug\net9.0\GradeCalculatorApp.pdb
+C:\Users\asare\OneDrive\Desktop\318\GradeCalculator\obj\Debug\net9.0\GradeCalculatorApp.genruntimeconfig.cache
+C:\Users\asare\OneDrive\Desktop\318\GradeCalculator\obj\Debug\net9.0\ref\GradeCalculatorApp.dll
